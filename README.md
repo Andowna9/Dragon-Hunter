@@ -1,19 +1,8 @@
 
 
-# Header 1 Dragon Hunter
-## Header 2
-### Header 3
+# Dragon Hunter
+## Simple 2D Game
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 
 
