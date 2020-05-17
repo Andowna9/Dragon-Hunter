@@ -1,7 +1,7 @@
 
 
-# DragonHunter
-## Simple 2D Game
+# Computer program made for entertainment purposes
+## Available for anyone to use
 
 
 Creator:
