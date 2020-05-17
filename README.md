@@ -1,7 +1,7 @@
 
 
-# Computer program made for entertainment purposes
-## Available for anyone to use
+# Computer program made for __entertainment purposes__
+## Available for everyone to download
 
 
 Creator:
