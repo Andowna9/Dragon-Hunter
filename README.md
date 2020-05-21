@@ -9,6 +9,8 @@
 
 2. Background (modified): https://www.pinterest.es/pin/493566440391506865/ 
 
+### Game Preview
+
 ![GitHub Logo](game.png)
 
 Creator:
