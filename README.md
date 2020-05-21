@@ -3,7 +3,7 @@
 # Computer program made for __entertainment purposes__
 ## Available for everyone to download
 
-![GitHub Logo](/images/game.png)
+![GitHub Logo](game.png)
 
 Creator:
 
