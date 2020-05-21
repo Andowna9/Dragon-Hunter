@@ -5,9 +5,9 @@
 
 ### Resources
 
-1. Sprites:[GitHub](https://opengameart.org/)
+1. Sprites: https://opengameart.org/ - automatic!
 
-2. Background (modified): [GitHub](https://www.pinterest.es/pin/493566440391506865/)
+2. Background (modified): https://www.pinterest.es/pin/493566440391506865/ - automatic!
 
 ![GitHub Logo](game.png)
 
