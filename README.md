@@ -17,20 +17,10 @@
 
 ### Image and audio manipulation thanks to:
 
- [Aseprite](https://www.aseprite.org/)
+* [Aseprite](https://www.aseprite.org/)
 
-[Bfxr] [2]
+* [Bfxr](https://www.bfxr.net/)
 
 Creator:
 
 > Jon Andoni Castillo Ciruela
-
-<!-- Reference Links -->
-[1]: https://www.aseprite.org/
-[2]: https://www.bfxr.net/
-
-
-
-
-
-
