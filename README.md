@@ -21,6 +21,13 @@
 
 * [Bfxr](https://www.bfxr.net/)
 
-+ Creator:
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
+
+Creator:
 
 > Jon Andoni Castillo Ciruela
