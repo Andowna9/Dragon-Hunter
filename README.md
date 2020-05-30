@@ -17,9 +17,9 @@
 
 ### Image and audio manipulation thanks to:
 
-* Aseprite [1]
+ [Aseprite] [1]
 
-* Bfxr [2]
+[Bfxr] [2]
 
 Creator:
 
