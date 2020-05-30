@@ -15,6 +15,12 @@
 
 ![GitHub Logo](game.png)
 
+### Image and audio manipulation thanks to:
+
+* Aseprite
+
+* Bfxr
+
 Creator:
 
 > Jon Andoni Castillo Ciruela
