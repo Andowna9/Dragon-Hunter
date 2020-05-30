@@ -21,7 +21,7 @@
 
 * Bfxr
 
-#Creator:
+__Creator:__
 
 > Jon Andoni Castillo Ciruela
 
