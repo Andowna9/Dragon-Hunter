@@ -21,7 +21,6 @@
 
 * [Bfxr](https://www.bfxr.net/)
 
-```diff
-+ Creator:
-```
+Creator:
+
 > Jon Andoni Castillo Ciruela
