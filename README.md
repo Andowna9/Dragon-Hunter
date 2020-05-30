@@ -17,20 +17,18 @@
 
 ### Image and audio manipulation thanks to:
 
-* Aseprite
+* [Aseprite] [1]
 
-* Bfxr
+* [Bfxr] [2]
 
-__Creator:__
+Creator:
 
 > Jon Andoni Castillo Ciruela
 
-I get 10 times more traffic from [Google][1] than from [Yahoo][2] or [MSN][3].
+<!-- Reference Links -->
+[1]: https://www.aseprite.org/
+[2]: https://www.bfxr.net/
 
-<!--Reference links in article-->
-[1]: http://google.com/
-[2]: http://search.yahoo.com/
-[3]: http://search.msn.com/
 
 
 
