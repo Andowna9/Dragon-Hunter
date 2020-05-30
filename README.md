@@ -17,7 +17,7 @@
 
 ### Image and audio manipulation thanks to:
 
- [Aseprite] [1]
+ [Aseprite](https://www.aseprite.org/)
 
 [Bfxr] [2]
 
